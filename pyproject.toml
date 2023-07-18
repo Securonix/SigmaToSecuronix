@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "securonix-cli"
-version = "0.1.4"
+version = "0.1.5"
 description = "A simple tool for converting Sigma detection rules to Securonix Spotter queries."
 authors = ["Securonix Threat Labs"]
 repository = "https://github.com/Securonix/SigmaToSecuronix"

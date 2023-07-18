@@ -8,4 +8,4 @@ class Configuration(SigmaConfiguration):
         try:
             return self.fieldmappings[fieldname]
         except KeyError:
-            return FieldMapping("MappingNotFound_"+fieldname)
+            return FieldMapping(fieldname)
