@@ -316,7 +316,7 @@ fieldmappings:
   Product: product
   PipeName: filepath
   EventSource: resourcename
-  User: destinationusername
+  User: sourceusername
   Description: description
   url: requesturl
   c-uri: requesturl
@@ -432,3 +432,5 @@ fieldmappings:
   Contents: customstring12
   Imphash: additionaldetails20
   Hash: additionaldetails20
+  ServiceFileName: customstring46
+  ServiceName: destinationservicename
