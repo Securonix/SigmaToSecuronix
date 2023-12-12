@@ -432,5 +432,5 @@ fieldmappings:
   Contents: customstring12
   Imphash: additionaldetails20
   Hash: additionaldetails20
-  ServiceFileName: customstring46
+  ServiceFileName: resourcecustomfield1
   ServiceName: destinationservicename
